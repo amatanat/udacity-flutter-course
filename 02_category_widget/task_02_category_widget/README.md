@@ -21,10 +21,3 @@
  - You can choose what icon, text, and color(s) to use.
  - You can customize the border radius.
 
-## Screenshots
-
-### Start
-<img src='../../screenshots/02_category_widget.png' width='350'>
-
-### Solution
-<img src='../../screenshots/02_category_widget_2.png' width='350'><img src='../../screenshots/02_category_widget_3.gif' width='350'>
